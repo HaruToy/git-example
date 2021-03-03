@@ -1,5 +1,7 @@
-Data with Camera Info
+Data with Camera Calibration Info
 ---------------------
+- chess : Zflip
+    + 체스판, 완전한 Tracking 
 - img5 : S20
 - img6 : Zflip 
     + 노란 벽
@@ -18,6 +20,6 @@ Data with Camera Info
 - video12 : Zflip 
 - video13 : Zflip 
 - video14 : Zflip 
-    + Initialize 됨
+    + Initialize => Tracking => 터짐
 - v14_edited : Zflip 
     + video14의 Initialize되는 부분부터 자름
