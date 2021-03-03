@@ -26,7 +26,7 @@ Data with Camera Calibration Info
 
 
 |폴더명|기종|기타|
-|:---|:---:|---:| 
+|:---:|:---:|:---| 
 |img5|S20||
 |video|S20|바닥 중심|
 |chess|Zflip|체스판, 완전한 Tracking|
