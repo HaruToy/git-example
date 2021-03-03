@@ -18,5 +18,6 @@ Data with Camera Info
 - video12 : Zflip 
 - video13 : Zflip 
 - video14 : Zflip 
-- v14_edited : Zflip 
     + Initialize 됨
+- v14_edited : Zflip 
+    + video14의 Initialize되는 부분부터 자름
