@@ -1,7 +1,7 @@
 Data with Camera Calibration Info
 ---------------------
 - chess : Zflip
-    + 체스판, 완전한 Tracking 
+    체스판, 완전한 Tracking 
 - img5 : S20
 - img6 : Zflip 
     + 노란 벽
